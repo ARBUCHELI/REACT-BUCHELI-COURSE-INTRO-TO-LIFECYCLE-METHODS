@@ -8,3 +8,6 @@ https://bucheli-web-development-react-course-intro-to-lifecyble.netlify.app/
 * To make a component have state, give the component a state property. This property should be declared inside of a constructor method.
 * this.state should be equal to an object.
 * Use of the first lifecycle methods during the mounting phase: constructor(), and render().
+
+## Important:
+* Notice that the clock created here is static.  We will use componentDidMount() to update it in the next lesson.
